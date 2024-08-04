@@ -549,6 +549,7 @@
 			<DataProcessor>УправлениеПолнотекстовымПоиском</DataProcessor>
 			<DataProcessor>УправлениеСистемойВзаимодействия</DataProcessor>
 			<DataProcessor>ЭлектроннаяПочта</DataProcessor>
+			<DataProcessor>СписокАктивныхПользователей1</DataProcessor>
 			<InformationRegister>КурсыВалют</InformationRegister>
 			<InformationRegister>ЦеныТоваров</InformationRegister>
 			<InformationRegister>СостояниеВходящихПисем</InformationRegister>
